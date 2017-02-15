@@ -1,0 +1,268 @@
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : cannot concatenate 'str' and 'int' objects
+<type 'exceptions.Exception'> : 'module' object has no attribute 'request'
+<type 'exceptions.Exception'> : 'module' object has no attribute 'request'
+<type 'exceptions.Exception'> : 'module' object has no attribute 'request'
+<type 'exceptions.Exception'> : 'module' object has no attribute 'request'
+<type 'exceptions.Exception'> : 'module' object has no attribute 'request'
+<type 'exceptions.Exception'> : 'module' object has no attribute 'request'
+<type 'exceptions.Exception'> : 'module' object has no attribute 'request'
+<type 'exceptions.Exception'> : [Errno ftp error] [Errno 10060] 
+<type 'exceptions.Exception'> : [Errno ftp error] [Errno 10060] 
+<type 'exceptions.Exception'> : [Errno ftp error] [Errno 10060] 
+<type 'exceptions.Exception'> : [Errno ftp error] [Errno 10060] 
+<type 'exceptions.Exception'> : [Errno ftp error] [Errno 10060] 
+<type 'exceptions.Exception'> : [Errno 2] : 'http\\\\gw1.alicdn.com\\bao\\uploaded\\i1\\TB1zDJKGXXXXXc6XpXXXXXXXXXX_!!0-item_pic.jpg'
+<type 'exceptions.Exception'> : [Errno 2] : 'http\\\\gw1.alicdn.com\\bao\\uploaded\\i3\\37176952\\TB2P_mdcYaI.eBjy1XdXXcoqXXa_!!37176952.jpg'
+<type 'exceptions.Exception'> : [Errno 2] : 'http\\\\gw3.alicdn.com\\bao\\uploaded\\i3\\37176952\\TB2P_mdcYaI.eBjy1XdXXcoqXXa_!!37176952.jpg'
+<type 'exceptions.Exception'> : [Errno 2] : 'http\\\\gw3.alicdn.com\\bao\\uploaded\\i3\\37176952\\TB2P_mdcYaI.eBjy1XdXXcoqXXa_!!37176952.jpg'
+<type 'exceptions.Exception'> : [Errno 2] : 'http\\\\gw3.alicdn.com\\bao\\uploaded\\i3\\37176952\\TB2P_mdcYaI.eBjy1XdXXcoqXXa_!!37176952.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: 'c:/image/%E7%A6%8F%E5%AD%97/0.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: 'c:/image/%E7%A6%8F%E5%AD%97/0.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: 'c:/image/%E7%A6%8F%E5%AD%97/0.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: 'c:/image/%E7%A6%8F%E5%AD%97/0.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: 'c:/image/x/0.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: 'c:/image/x/0.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: 'c:/image/x/0.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: 'c:/image/x/0.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: './image/x/0.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: './image/x/0.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: './image/x/0.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: './image/x/0.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: '/image/x/0.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: '/image/x/0.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: '/image/x/0.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: '/image/x/0.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: '/image/x/0.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: '/image/x/0.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: '/image/x/0.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: '/image/x/0.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: u'image/x/%E7%A6%8F%E5%AD%97/\u6148\u98ce\u9601\u5f00\u5149\u4e94\u884c\u798f\u5b572017\u9e21\u5e74\u516b\u5366\u95e8\u798f\u6625\u8054\u95e8\u7b26\u6625\u8282\u5bf9\u8054\u5409\u7965\u95e8\u8d34\u798f.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: u'image/x/%E7%A6%8F%E5%AD%97/\u6148\u98ce\u9601\u5f00\u5149\u4e94\u884c\u798f\u5b572017\u9e21\u5e74\u516b\u5366\u95e8\u798f\u6625\u8054\u95e8\u7b26\u6625\u8282\u5bf9\u8054\u5409\u7965\u95e8\u8d34\u798f.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: u'image/x/%E7%A6%8F%E5%AD%97/\u6148\u98ce\u9601\u5f00\u5149\u4e94\u884c\u798f\u5b572017\u9e21\u5e74\u516b\u5366\u95e8\u798f\u6625\u8054\u95e8\u7b26\u6625\u8282\u5bf9\u8054\u5409\u7965\u95e8\u8d34\u798f.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: u'image/x/%E7%A6%8F%E5%AD%97/\u6148\u98ce\u9601\u5f00\u5149\u4e94\u884c\u798f\u5b572017\u9e21\u5e74\u516b\u5366\u95e8\u798f\u6625\u8054\u95e8\u7b26\u6625\u8282\u5bf9\u8054\u5409\u7965\u95e8\u8d34\u798f.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: u'image/x/%E7%A6%8F%E5%AD%97/\u5bcc\u8d35\u5305\u90ae\u5927\u53f7\u4e2d\u56fd\u7ed3\u6302\u4ef6\u798f\u5b57\u6843\u6728\u9547\u5b85\u98ce\u6c34\u5bb6\u5c45\u4e2d\u56fd\u7ed3\u5c0f\u53f7\u5ba2\u5385\u6302\u9970.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: u'image/x/\u798f\u5b57/\u6148\u98ce\u9601\u5f00\u5149\u4e94\u884c\u798f\u5b572017\u9e21\u5e74\u516b\u5366\u95e8\u798f\u6625\u8054\u95e8\u7b26\u6625\u8282\u5bf9\u8054\u5409\u7965\u95e8\u8d34\u798f.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: u'image/x/\u798f\u5b57/\u5bcc\u8d35\u5305\u90ae\u5927\u53f7\u4e2d\u56fd\u7ed3\u6302\u4ef6\u798f\u5b57\u6843\u6728\u9547\u5b85\u98ce\u6c34\u5bb6\u5c45\u4e2d\u56fd\u7ed3\u5c0f\u53f7\u5ba2\u5385\u6302\u9970.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: u'image/x/\u798f\u5b57/\u6148\u98ce\u9601\u5f00\u5149\u4e94\u884c\u798f\u5b572017\u9e21\u5e74\u516b\u5366\u95e8\u798f\u6625\u8054\u95e8\u7b26\u6625\u8282\u5bf9\u8054\u5409\u7965\u95e8\u8d34\u798f.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: u'image/x/\u798f\u5b57/\u5bcc\u8d35\u5305\u90ae\u5927\u53f7\u4e2d\u56fd\u7ed3\u6302\u4ef6\u798f\u5b57\u6843\u6728\u9547\u5b85\u98ce\u6c34\u5bb6\u5c45\u4e2d\u56fd\u7ed3\u5c0f\u53f7\u5ba2\u5385\u6302\u9970.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: u'image/x/\u798f\u5b57/\u6148\u98ce\u9601\u5f00\u5149\u4e94\u884c\u798f\u5b572017\u9e21\u5e74\u516b\u5366\u95e8\u798f\u6625\u8054\u95e8\u7b26\u6625\u8282\u5bf9\u8054\u5409\u7965\u95e8\u8d34\u798f.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: u'image/x/\u798f\u5b57/\u6148\u98ce\u9601\u5f00\u5149\u4e94\u884c\u798f\u5b572017\u9e21\u5e74\u516b\u5366\u95e8\u798f\u6625\u8054\u95e8\u7b26\u6625\u8282\u5bf9\u8054\u5409\u7965\u95e8\u8d34\u798f.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: 'image/x/\xb8\xa3\xd7\xd6/\xb4\xc8\xb7\xe7\xb8\xf3\xbf\xaa\xb9\xe2\xce\xe5\xd0\xd0\xb8\xa3\xd7\xd62017\xbc\xa6\xc4\xea\xb0\xcb\xd8\xd4\xc3\xc5\xb8\xa3\xb4\xba\xc1\xaa\xc3\xc5\xb7\xfb\xb4\xba\xbd\xda\xb6\xd4\xc1\xaa\xbc\xaa\xcf\xe9\xc3\xc5\xcc\xf9\xb8\xa3.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: 'image/x/\xb8\xa3\xd7\xd6/\xb4\xc8\xb7\xe7\xb8\xf3\xbf\xaa\xb9\xe2\xce\xe5\xd0\xd0\xb8\xa3\xd7\xd62017\xbc\xa6\xc4\xea\xb0\xcb\xd8\xd4\xc3\xc5\xb8\xa3\xb4\xba\xc1\xaa\xc3\xc5\xb7\xfb\xb4\xba\xbd\xda\xb6\xd4\xc1\xaa\xbc\xaa\xcf\xe9\xc3\xc5\xcc\xf9\xb8\xa3.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: 'image/x/\xb8\xa3\xd7\xd6/\xb4\xc8\xb7\xe7\xb8\xf3\xbf\xaa\xb9\xe2\xce\xe5\xd0\xd0\xb8\xa3\xd7\xd62017\xbc\xa6\xc4\xea\xb0\xcb\xd8\xd4\xc3\xc5\xb8\xa3\xb4\xba\xc1\xaa\xc3\xc5\xb7\xfb\xb4\xba\xbd\xda\xb6\xd4\xc1\xaa\xbc\xaa\xcf\xe9\xc3\xc5\xcc\xf9\xb8\xa3.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: 'image/x/\xb8\xa3\xd7\xd6/\xb4\xc8\xb7\xe7\xb8\xf3\xbf\xaa\xb9\xe2\xce\xe5\xd0\xd0\xb8\xa3\xd7\xd62017\xbc\xa6\xc4\xea\xb0\xcb\xd8\xd4\xc3\xc5\xb8\xa3\xb4\xba\xc1\xaa\xc3\xc5\xb7\xfb\xb4\xba\xbd\xda\xb6\xd4\xc1\xaa\xbc\xaa\xcf\xe9\xc3\xc5\xcc\xf9\xb8\xa3.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: 'image/x/\xb8\xa3\xd7\xd6/\xb4\xc8\xb7\xe7\xb8\xf3\xbf\xaa\xb9\xe2\xce\xe5\xd0\xd0\xb8\xa3\xd7\xd62017\xbc\xa6\xc4\xea\xb0\xcb\xd8\xd4\xc3\xc5\xb8\xa3\xb4\xba\xc1\xaa\xc3\xc5\xb7\xfb\xb4\xba\xbd\xda\xb6\xd4\xc1\xaa\xbc\xaa\xcf\xe9\xc3\xc5\xcc\xf9\xb8\xa3.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: 'image/x/\xb8\xa3\xd7\xd6/\xb4\xc8\xb7\xe7\xb8\xf3\xbf\xaa\xb9\xe2\xce\xe5\xd0\xd0\xb8\xa3\xd7\xd62017\xbc\xa6\xc4\xea\xb0\xcb\xd8\xd4\xc3\xc5\xb8\xa3\xb4\xba\xc1\xaa\xc3\xc5\xb7\xfb\xb4\xba\xbd\xda\xb6\xd4\xc1\xaa\xbc\xaa\xcf\xe9\xc3\xc5\xcc\xf9\xb8\xa3.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: 'image/x/\xb8\xa3\xd7\xd6/\xb4\xc8\xb7\xe7\xb8\xf3\xbf\xaa\xb9\xe2\xce\xe5\xd0\xd0\xb8\xa3\xd7\xd62017\xbc\xa6\xc4\xea\xb0\xcb\xd8\xd4\xc3\xc5\xb8\xa3\xb4\xba\xc1\xaa\xc3\xc5\xb7\xfb\xb4\xba\xbd\xda\xb6\xd4\xc1\xaa\xbc\xaa\xcf\xe9\xc3\xc5\xcc\xf9\xb8\xa3.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: 'image/x/\xb8\xa3\xd7\xd6/\xb4\xc8\xb7\xe7\xb8\xf3\xbf\xaa\xb9\xe2\xce\xe5\xd0\xd0\xb8\xa3\xd7\xd62017\xbc\xa6\xc4\xea\xb0\xcb\xd8\xd4\xc3\xc5\xb8\xa3\xb4\xba\xc1\xaa\xc3\xc5\xb7\xfb\xb4\xba\xbd\xda\xb6\xd4\xc1\xaa\xbc\xaa\xcf\xe9\xc3\xc5\xcc\xf9\xb8\xa3.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: 'image/x/\xb8\xa3\xd7\xd6/\xb4\xc8\xb7\xe7\xb8\xf3\xbf\xaa\xb9\xe2\xce\xe5\xd0\xd0\xb8\xa3\xd7\xd62017\xbc\xa6\xc4\xea\xb0\xcb\xd8\xd4\xc3\xc5\xb8\xa3\xb4\xba\xc1\xaa\xc3\xc5\xb7\xfb\xb4\xba\xbd\xda\xb6\xd4\xc1\xaa\xbc\xaa\xcf\xe9\xc3\xc5\xcc\xf9\xb8\xa3.jpg'
+<type 'exceptions.Exception'> : [Errno 2] No such file or directory: 'image/x/\xb8\xa3\xd7\xd6/\xb4\xc8\xb7\xe7\xb8\xf3\xbf\xaa\xb9\xe2\xce\xe5\xd0\xd0\xb8\xa3\xd7\xd62017\xbc\xa6\xc4\xea\xb0\xcb\xd8\xd4\xc3\xc5\xb8\xa3\xb4\xba\xc1\xaa\xc3\xc5\xb7\xfb\xb4\xba\xbd\xda\xb6\xd4\xc1\xaa\xbc\xaa\xcf\xe9\xc3\xc5\xcc\xf9\xb8\xa3.jpg'
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : decoding Unicode is not supported
+<type 'exceptions.Exception'> : 'unicode' object has no attribute 'dencode'
+<type 'exceptions.Exception'> : 'unicode' object has no attribute 'dencode'
+<type 'exceptions.Exception'> : 'unicode' object has no attribute 'dencode'
+<type 'exceptions.Exception'> : 'unicode' object has no attribute 'dencode'
+<type 'exceptions.Exception'> : 'unicode' object has no attribute 'dencode'
+<type 'exceptions.Exception'> : 'unicode' object has no attribute 'dencode'
+<type 'exceptions.Exception'> : 'unicode' object has no attribute 'dencode'
+<type 'exceptions.Exception'> : 'unicode' object has no attribute 'dencode'
+<type 'exceptions.Exception'> : 'unicode' object has no attribute 'dencode'
+<type 'exceptions.Exception'> : 'unicode' object has no attribute 'dencode'
+<type 'exceptions.Exception'> : 'unicode' object has no attribute 'dencode'
+<type 'exceptions.Exception'> : 'unicode' object has no attribute 'dencode'
+<type 'exceptions.Exception'> : 'unicode' object has no attribute 'dencode'
+<type 'exceptions.Exception'> : 'unicode' object has no attribute 'dencode'
+<type 'exceptions.Exception'> : 'unicode' object has no attribute 'dencode'
+<type 'exceptions.Exception'> : 'unicode' object has no attribute 'dencode'
+<type 'exceptions.Exception'> : 'unicode' object has no attribute 'dencode'
+<type 'exceptions.Exception'> : 'unicode' object has no attribute 'dencode'
+<type 'exceptions.Exception'> : 'unicode' object has no attribute 'dencode'
+<type 'exceptions.Exception'> : 'unicode' object has no attribute 'dencode'
+<type 'exceptions.Exception'> : 'unicode' object has no attribute 'dencode'
+<type 'exceptions.Exception'> : 'unicode' object has no attribute 'dencode'
+<type 'exceptions.Exception'> : 'unicode' object has no attribute 'dencode'
+<type 'exceptions.Exception'> : 'unicode' object has no attribute 'dencode'
+<type 'exceptions.Exception'> : 'unicode' object has no attribute 'dencode'
+<type 'exceptions.Exception'> : 'unicode' object has no attribute 'dencode'
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : global name 'photo_mum' is not defined
+<type 'exceptions.Exception'> : {'status': 400, 'details': {'HostId': 'python2zerodeng.python2zerodeng.oss-cn-beijing.aliyuncs.com', 'Message': 'The specified bucket is not valid.', 'Code': 'InvalidBucketName', 'RequestId': '5886AA71483412906FA6AF2D', 'BucketName': 'python2zerodeng.python2zerodeng'}}
+<type 'exceptions.Exception'> : {'status': 400, 'details': {'HostId': 'python2zerodeng.python2zerodeng.oss-cn-beijing.aliyuncs.com', 'Message': 'The specified bucket is not valid.', 'Code': 'InvalidBucketName', 'RequestId': '5886AA71483412906FA6B20B', 'BucketName': 'python2zerodeng.python2zerodeng'}}
+<type 'exceptions.Exception'> : {'status': 400, 'details': {'HostId': 'python2zerodeng.python2zerodeng.oss-cn-beijing.aliyuncs.com', 'Message': 'The specified bucket is not valid.', 'Code': 'InvalidBucketName', 'RequestId': '5886AA7218EA5E0241B18562', 'BucketName': 'python2zerodeng.python2zerodeng'}}
+<type 'exceptions.Exception'> : {'status': 400, 'details': {'HostId': 'python2zerodeng.python2zerodeng.oss-cn-beijing.aliyuncs.com', 'Message': 'The specified bucket is not valid.', 'Code': 'InvalidBucketName', 'RequestId': '5886AA7383B4CE0522B4922B', 'BucketName': 'python2zerodeng.python2zerodeng'}}
+<type 'exceptions.Exception'> : {'status': 400, 'details': {'HostId': 'python2zerodeng.python2zerodeng.oss-cn-beijing.aliyuncs.com', 'Message': 'The specified bucket is not valid.', 'Code': 'InvalidBucketName', 'RequestId': '5886AA741B658DCC26AAE7C3', 'BucketName': 'python2zerodeng.python2zerodeng'}}
+<type 'exceptions.Exception'> : {'status': 400, 'details': {'HostId': 'python2zerodeng.python2zerodeng.oss-cn-beijing.aliyuncs.com', 'Message': 'The specified bucket is not valid.', 'Code': 'InvalidBucketName', 'RequestId': '5886AA746FF1C5DA4CBEFDDA', 'BucketName': 'python2zerodeng.python2zerodeng'}}
+<type 'exceptions.Exception'> : {'status': 400, 'details': {'HostId': 'python2zerodeng.python2zerodeng.oss-cn-beijing.aliyuncs.com', 'Message': 'The specified bucket is not valid.', 'Code': 'InvalidBucketName', 'RequestId': '5886AA75E8DFE83816C6CCE2', 'BucketName': 'python2zerodeng.python2zerodeng'}}
+<type 'exceptions.Exception'> : {'status': 400, 'details': {'HostId': 'python2zerodeng.python2zerodeng.oss-cn-beijing.aliyuncs.com', 'Message': 'The specified bucket is not valid.', 'Code': 'InvalidBucketName', 'RequestId': '5886AB1C18EA5E0241B71F5E', 'BucketName': 'python2zerodeng.python2zerodeng'}}
+<type 'exceptions.Exception'> : {'status': 400, 'details': {'HostId': 'python2zerodeng.python2zerodeng.oss-cn-beijing.aliyuncs.com', 'Message': 'The specified bucket is not valid.', 'Code': 'InvalidBucketName', 'RequestId': '5886AB1C483412906FAC673E', 'BucketName': 'python2zerodeng.python2zerodeng'}}
+<type 'exceptions.Exception'> : {'status': 400, 'details': {'HostId': 'python2zerodeng.python2zerodeng.oss-cn-beijing.aliyuncs.com', 'Message': 'The specified bucket is not valid.', 'Code': 'InvalidBucketName', 'RequestId': '5886AB1D18EA5E0241B72927', 'BucketName': 'python2zerodeng.python2zerodeng'}}
