@@ -16,7 +16,7 @@ db_status = 1               是否在该数据库创建数据表taobao，未创�
 run_time = 86401            爬虫运行时间间隔，单位秒
 
 [OSS]
-oss_status = 0                                     是否使用阿里云oss存储照片附件，是为1否为0
+oss_status = 0                                     是否使用阿里云oss存储照片附件，是为1，否则为0，附件存储在images文件夹
 Key = LJ53LvR1Q1118Qhi                             阿里云key
 Secret = xikfDIv67a3ZzclShnqUPRo11qEJtK            阿里云Secret
 BucketName = python1223                            oss BucketName
