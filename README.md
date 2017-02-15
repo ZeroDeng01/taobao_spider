@@ -3,7 +3,10 @@
 
 
 基于python2.7开发，其中使用了phantomjs插件。
-config.ini为基本配置文件，说明如下：
+
+
+ **config.ini为基本配置文件，说明如下：** 
+
 ```
 [mysqldb]
 db_url = 127.0.0.1          数据库连接地址，默认3306端口
